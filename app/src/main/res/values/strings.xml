@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BluetoothDiscoveryExample</string>
+
+    <string name="start_discovery_btn">Start Discovery</string>
+    <string name="msg_have_no_bluetooth">This Android device doesn\'t have an Bluetooth adapter.</string>
+    <string name="msg_couldnt_init_bt">Couldn\'t initialize Bluetooth.</string>
+    <string name="msg_ble_scan_failed">BLE scan failed.</string>
+    <string name="msg_have_no_ble_sys_feature">Have no system feature FEATURE_BLUETOOTH_LE.</string>
+    <string name="msg_you_must_enable_bt">You may enable Bluetooth to work with an application.</string>
+    <string name="device_name">Name: %1$s</string>
+    <string name="device_address">Address: %1$s</string>
+</resources>
